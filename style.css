@@ -237,15 +237,19 @@ header .navbar ul li a:hover{
 
 
 #bubble{
- background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url('./img/soccer.JPG');
+ background-image: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.6) ,rgba(0,0,0,1)),url('./img/soccer.JPG');
  background-position: center; 
 }
 
 #ObsRun{
-    background-image: linear-gradient(rgba(0,0,0,0.8),rgba(0,0,0,0.8)),url('./img/obstacle.PNG');
+    background-image: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.6) ,rgba(0,0,0,1)),url('./img/obstacle.PNG');
     background-position: center; 
 }
 
+#dodge{
+    background-image: linear-gradient(rgba(0,0,0,1),rgba(0,0,0,0.6) ,rgba(0,0,0,1)),url('./img/dodge.JPG');
+    background-position: center; 
+}
 
 
 

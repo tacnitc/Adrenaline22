@@ -236,7 +236,16 @@ header .navbar ul li a:hover{
 
 
 
+#bubble{
+ background-image: linear-gradient(rgba(0,0,0,0.7),rgba(0,0,0,0.7)),url('./img/soccer.JPG');
+ background-position: center; 
+ 
 
+
+}
+.render{
+    opacity:1
+}
 
 
 
